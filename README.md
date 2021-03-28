@@ -1,7 +1,9 @@
 # Contacts
 #Lecture #Data #DS #DA
 
-## 반갑습니다!
+## 반갑습니다! 
+ - Lecturer 김동환입니다. 궁금한 점들은 아래 경로들로 편하게 문의주세요~ :) 
+ - 강의/강연 관련 문의는 'aitwillz@gmail.com' 메일로 부탁드립니다.
 
 ### Lecturer Info.
  - e-mail : volunteerhwan@gmail.com
